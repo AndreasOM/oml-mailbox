@@ -345,7 +345,7 @@ dependencies = [
 
 [[package]]
 name = "oml-mailbox"
-version = "0.1.1-alpha"
+version = "0.1.2-dev"
 dependencies = [
  "async-trait",
  "base64",
